@@ -1,5 +1,5 @@
 
-## Ola! Eu sou a Maria Miranda, bem vindo ao meu perfil 🪻
+## Ola! Eu sou a Maria Eduarda, bem vindo ao meu perfil 🪻
 
 <img src="https://img.shields.io/badge/Status-Estudando-purple">
 <div align="center">
